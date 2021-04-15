@@ -1,0 +1,2150 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="EC | ECUAVISA *FHD">
+    <display-name lang="es">EC | ECUAVISA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | ECUAVISA *FHD | op2">
+    <display-name lang="es">EC | ECUAVISA *FHD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | ECUAVISA *HD">
+    <display-name lang="es">EC | ECUAVISA *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | ECUAVISA *HD | op2">
+    <display-name lang="es">EC | ECUAVISA *HD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | ECUAVISA *HQ">
+    <display-name lang="es">EC | ECUAVISA *HQ</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | ECUAVISA *HQ | op2">
+    <display-name lang="es">EC | ECUAVISA *HQ | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR CHANNEL *FHD">
+    <display-name lang="es">STAR CHANNEL *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR LIFE *FHD">
+    <display-name lang="es">STAR LIFE *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR ACTION *FHD">
+    <display-name lang="es">STAR ACTION *FHD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="STAR CINEMA *FHD">
+    <display-name lang="es">STAR CINEMA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR CLASSICS *FHD">
+    <display-name lang="es">STAR CLASSICS *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR COMEDY *FHD">
+    <display-name lang="es">STAR COMEDY *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR FUN *FHD">
+    <display-name lang="es">STAR FUN *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR HIT *FHD">
+    <display-name lang="es">STAR HIT *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR SERIES *FHD">
+    <display-name lang="es">STAR SERIES *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FX *FHD">
+    <display-name lang="es">FX *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="FXM *FHD">
+    <display-name lang="es">FXM *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416170000 -0500" stop="20210416180000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416170000 -0500" stop="20210416180000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416170000 -0500" stop="20210416180000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416170000 -0500" stop="20210416180000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416170000 -0500" stop="20210416180000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416170000 -0500" stop="20210416180000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415001500 -0500" stop="20210415004500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415004500 -0500" stop="20210415033500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Watchmen Los vigilantes</title>
+  </programme>
+  <programme start="20210415033500 -0500" stop="20210415061500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Resident Evil: El Huésped Maldito</title>
+  </programme>
+  <programme start="20210415061500 -0500" stop="20210415070000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415073000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415080000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210415080000 -0500" stop="20210415083000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415090000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210415090000 -0500" stop="20210415100000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20210415100000 -0500" stop="20210415112500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Cazando salvajes</title>
+  </programme>
+  <programme start="20210415112500 -0500" stop="20210415115300 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20210415115300 -0500" stop="20210415121600 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415121600 -0500" stop="20210415123800 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415123800 -0500" stop="20210415132500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">9-1-1: Lone Star</title>
+  </programme>
+  <programme start="20210415132500 -0500" stop="20210415141300 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20210415141300 -0500" stop="20210415154400 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Vacaciones inesperadas</title>
+  </programme>
+  <programme start="20210415154400 -0500" stop="20210415160700 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Will &amp; Grace</title>
+  </programme>
+  <programme start="20210415160700 -0500" stop="20210415163200 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Will &amp; Grace</title>
+  </programme>
+  <programme start="20210415163200 -0500" stop="20210415165600 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415165600 -0500" stop="20210415171900 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415171900 -0500" stop="20210415195600 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Kingsman: El Círculo Dorado</title>
+  </programme>
+  <programme start="20210415195600 -0500" stop="20210415202100 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415202100 -0500" stop="20210415204800 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415204800 -0500" stop="20210415211200 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415211200 -0500" stop="20210415213600 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Maratón Los Simpson</title>
+  </programme>
+  <programme start="20210415213600 -0500" stop="20210415220000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Maratón Los Simpson</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210416002400 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Terminator: Destino Oculto</title>
+  </programme>
+  <programme start="20210416220000 -0500" stop="20210417002400 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Terminator: Destino Oculto</title>
+  </programme>
+  <programme start="20210417002400 -0500" stop="20210417004600 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417004600 -0500" stop="20210417010700 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417010700 -0500" stop="20210417024700 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">El Depredador</title>
+  </programme>
+  <programme start="20210417024700 -0500" stop="20210417040500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Poder sin límites</title>
+  </programme>
+  <programme start="20210417040500 -0500" stop="20210417060200 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Siete Almas</title>
+  </programme>
+  <programme start="20210417060200 -0500" stop="20210417070000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210417100000 -0500" stop="20210417115200 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Vecinos cercanos del tercer tipo</title>
+  </programme>
+  <programme start="20210417115200 -0500" stop="20210417115900 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">El Ídolo de muy muy lejano</title>
+  </programme>
+  <programme start="20210417115900 -0500" stop="20210417122700 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417122700 -0500" stop="20210417131700 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">S.W.A.T. Undersiege</title>
+  </programme>
+  <programme start="20210417131700 -0500" stop="20210417152400 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">¡Mamma Mía! Vamos Otra Vez</title>
+  </programme>
+  <programme start="20210417152400 -0500" stop="20210417175700 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Juegos del Hambre: En Llamas</title>
+  </programme>
+  <programme start="20210417175700 -0500" stop="20210417195300 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Olé!: El Viaje de Ferdinand</title>
+  </programme>
+  <programme start="20210417195300 -0500" stop="20210417201800 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417201800 -0500" stop="20210417204700 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417204700 -0500" stop="20210417211200 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417211200 -0500" stop="20210417213500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417213500 -0500" stop="20210417220000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417220000 -0500" stop="20210418002200 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Familia al Instante</title>
+  </programme>
+  <programme start="20210418002200 -0500" stop="20210418004500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210418004500 -0500" stop="20210418010400 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210418010400 -0500" stop="20210418025100 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Pasajeros</title>
+  </programme>
+  <programme start="20210418025100 -0500" stop="20210418045800 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Misión imposible: Protocolo fantasma</title>
+  </programme>
+  <programme start="20210418045800 -0500" stop="20210418061700 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Vacaciones inesperadas</title>
+  </programme>
+  <programme start="20210418061700 -0500" stop="20210418070000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210418100000 -0500" stop="20210418120000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Rango</title>
+  </programme>
+  <programme start="20210418120000 -0500" stop="20210418122500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">El regalo de furia</title>
+  </programme>
+  <programme start="20210418122500 -0500" stop="20210418124400 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">La leyenda del dragón rompehuesos</title>
+  </programme>
+  <programme start="20210418124400 -0500" stop="20210418130900 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210418130900 -0500" stop="20210418133300 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210418133300 -0500" stop="20210418160900 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Kingsman: El Círculo Dorado</title>
+  </programme>
+  <programme start="20210418160900 -0500" stop="20210418180000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Dragon Ball Z: Resurrección de Freezer</title>
+  </programme>
+  <programme start="20210418180000 -0500" stop="20210418200000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Dragon Ball Super: Broly</title>
+  </programme>
+  <programme start="20210418200000 -0500" stop="20210418203000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210418203000 -0500" stop="20210418205900 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210418205900 -0500" stop="20210418212800 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210418212800 -0500" stop="20210418220000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210418220000 -0500" stop="20210419001700 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Bumblebee</title>
+  </programme>
+  <programme start="20210415001500 -0500" stop="20210415011500 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">La ley y el orden intento criminal</title>
+  </programme>
+  <programme start="20210415011500 -0500" stop="20210415013700 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Maratón La ley y el orden: UVE</title>
+  </programme>
+  <programme start="20210415013700 -0500" stop="20210415030000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Ashley</title>
+  </programme>
+  <programme start="20210415030000 -0500" stop="20210415045200 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210415045200 -0500" stop="20210415055200 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Cumbia Ninja</title>
+  </programme>
+  <programme start="20210415055200 -0500" stop="20210415060000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Cumbia Ninja</title>
+  </programme>
+  <programme start="20210415060000 -0500" stop="20210415070000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">The Romeo Section</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415073000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415080000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210415080000 -0500" stop="20210415083000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415090000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210415090000 -0500" stop="20210415093000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415100000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210415100000 -0500" stop="20210415103000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415120000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210415120000 -0500" stop="20210415140000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Padre Soltero</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415154500 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Los secretos del poder</title>
+  </programme>
+  <programme start="20210415154500 -0500" stop="20210415165200 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">La ley y el orden intento criminal</title>
+  </programme>
+  <programme start="20210415165200 -0500" stop="20210415174500 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210415174500 -0500" stop="20210415183700 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">New Amsterdam (2018)</title>
+  </programme>
+  <programme start="20210415183700 -0500" stop="20210415192200 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Maratón La ley y el orden: UVE</title>
+  </programme>
+  <programme start="20210415192200 -0500" stop="20210415201500 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">La ley y el orden intento criminal</title>
+  </programme>
+  <programme start="20210415201500 -0500" stop="20210415210000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">New Amsterdam (2018)</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Maratón La ley y el orden: UVE</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415233000 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">Hitch especialista en seducción</title>
+  </programme>
+  <programme start="20210415233000 -0500" stop="20210416001500 -0500" channel="STAR LIFE *FHD">
+    <title lang="es">New Amsterdam (2018)</title>
+  </programme>
+  <programme start="20210415001700 -0500" stop="20210415020000 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Poisonous Protégé</title>
+  </programme>
+  <programme start="20210415020000 -0500" stop="20210415040700 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Lucía y el sexo</title>
+  </programme>
+  <programme start="20210415040700 -0500" stop="20210415061400 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Cumbres borrascosas</title>
+  </programme>
+  <programme start="20210415061400 -0500" stop="20210415073900 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Maine</title>
+  </programme>
+  <programme start="20210415073900 -0500" stop="20210415092100 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">La desaparición de Eleanor</title>
+  </programme>
+  <programme start="20210415092100 -0500" stop="20210415105300 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Todas as Canções de Amor</title>
+  </programme>
+  <programme start="20210415105300 -0500" stop="20210415122200 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Abducted</title>
+  </programme>
+  <programme start="20210415122200 -0500" stop="20210415140300 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Una Mujer Fantástica</title>
+  </programme>
+  <programme start="20210415140300 -0500" stop="20210415153200 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20210415153200 -0500" stop="20210415173100 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Atracción Fatal</title>
+  </programme>
+  <programme start="20210415173100 -0500" stop="20210415200000 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">La sospecha</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415213700 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Yardie</title>
+  </programme>
+  <programme start="20210415213700 -0500" stop="20210415230800 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Los misterios de Emma Fielding</title>
+  </programme>
+  <programme start="20210415230800 -0500" stop="20210416005800 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">¡Es muy cruel vivir así</title>
+  </programme>
+  <programme start="20210416005800 -0500" stop="20210416023700 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">El Cambista</title>
+  </programme>
+  <programme start="20210416023700 -0500" stop="20210416052500 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">El Último Traje</title>
+  </programme>
+  <programme start="20210416052500 -0500" stop="20210416070400 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">La carta</title>
+  </programme>
+  <programme start="20210416070400 -0500" stop="20210416081500 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Malambo, El hombre bueno</title>
+  </programme>
+  <programme start="20210416081500 -0500" stop="20210416095100 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Ashley</title>
+  </programme>
+  <programme start="20210416095100 -0500" stop="20210416111800 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">No te olvides de mí</title>
+  </programme>
+  <programme start="20210416111800 -0500" stop="20210416123100 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">El Amor No Puede Esperar</title>
+  </programme>
+  <programme start="20210416123100 -0500" stop="20210416135500 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Todos esos pequeños momentos</title>
+  </programme>
+  <programme start="20210416135500 -0500" stop="20210416151900 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Ginger &amp; Rosa</title>
+  </programme>
+  <programme start="20210416151900 -0500" stop="20210416165000 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">El Retiro</title>
+  </programme>
+  <programme start="20210416165000 -0500" stop="20210416182800 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Knife Fight</title>
+  </programme>
+  <programme start="20210416182800 -0500" stop="20210416200000 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Lovelace Garganta profunda</title>
+  </programme>
+  <programme start="20210416200000 -0500" stop="20210416213400 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">El ojo del mal</title>
+  </programme>
+  <programme start="20210416213400 -0500" stop="20210416231000 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Traición a tres esposas</title>
+  </programme>
+  <programme start="20210416231000 -0500" stop="20210417011100 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Lucy in the Sky</title>
+  </programme>
+  <programme start="20210417231000 -0500" stop="20210418011100 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Lucy in the Sky</title>
+  </programme>
+  <programme start="20210418011100 -0500" stop="20210418032000 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Lucía y el sexo</title>
+  </programme>
+  <programme start="20210418032000 -0500" stop="20210418043900 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Bypass</title>
+  </programme>
+  <programme start="20210418043900 -0500" stop="20210418061500 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Esto no es una cita</title>
+  </programme>
+  <programme start="20210418061500 -0500" stop="20210418075200 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Mindscape</title>
+  </programme>
+  <programme start="20210418075200 -0500" stop="20210418092700 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Abducted</title>
+  </programme>
+  <programme start="20210418092700 -0500" stop="20210418111500 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">El Cisne negro</title>
+  </programme>
+  <programme start="20210418111500 -0500" stop="20210418131600 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Atracción Fatal</title>
+  </programme>
+  <programme start="20210418131600 -0500" stop="20210418151400 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Pecado original</title>
+  </programme>
+  <programme start="20210418151400 -0500" stop="20210418170200 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">El robo del siglo</title>
+  </programme>
+  <programme start="20210418170200 -0500" stop="20210418183000 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Los misterios de Emma Fielding</title>
+  </programme>
+  <programme start="20210418183000 -0500" stop="20210418200000 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Aquí y ahora</title>
+  </programme>
+  <programme start="20210418200000 -0500" stop="20210418214000 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Les Affamés</title>
+  </programme>
+  <programme start="20210418214000 -0500" stop="20210418230800 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">Acusaciones y mentiras</title>
+  </programme>
+  <programme start="20210418230800 -0500" stop="20210419013600 -0500" channel="STAR CINEMA *FHD">
+    <title lang="es">La sospecha</title>
+  </programme>
+  <programme start="20210415002900 -0500" stop="20210415024200 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Muerde la bala</title>
+  </programme>
+  <programme start="20210415024200 -0500" stop="20210415041300 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Almost a Bride</title>
+  </programme>
+  <programme start="20210415041300 -0500" stop="20210415061200 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">El desconocido</title>
+  </programme>
+  <programme start="20210415061200 -0500" stop="20210415074000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Vivirás Tu Vida</title>
+  </programme>
+  <programme start="20210415074000 -0500" stop="20210415092000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Los Depravados</title>
+  </programme>
+  <programme start="20210415092000 -0500" stop="20210415112300 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Infierno 17</title>
+  </programme>
+  <programme start="20210415112300 -0500" stop="20210415131200 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Horizontes desconocidos</title>
+  </programme>
+  <programme start="20210415131200 -0500" stop="20210415151000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Los Vikingos</title>
+  </programme>
+  <programme start="20210415151000 -0500" stop="20210415170700 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Fiebre de sábado por la noche</title>
+  </programme>
+  <programme start="20210415170700 -0500" stop="20210415190000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">A Nightingale Sang in Berkeley</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415205900 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">El viento y el león</title>
+  </programme>
+  <programme start="20210415205900 -0500" stop="20210415224600 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Efectos Mortales</title>
+  </programme>
+  <programme start="20210415224600 -0500" stop="20210416005000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Drácula, De Bram Stoker</title>
+  </programme>
+  <programme start="20210416224600 -0500" stop="20210417005000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Drácula, De Bram Stoker</title>
+  </programme>
+  <programme start="20210417005000 -0500" stop="20210417023900 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">¿Quién Llamó a la Cigüeña</title>
+  </programme>
+  <programme start="20210417023900 -0500" stop="20210417041400 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">El Cuervo</title>
+  </programme>
+  <programme start="20210417041400 -0500" stop="20210417060100 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Adiós, Sabata</title>
+  </programme>
+  <programme start="20210417060100 -0500" stop="20210417080900 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">El Dorado</title>
+  </programme>
+  <programme start="20210417080900 -0500" stop="20210417101900 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">El oro de MacKenna</title>
+  </programme>
+  <programme start="20210417101900 -0500" stop="20210417113400 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Estación comanche</title>
+  </programme>
+  <programme start="20210417113400 -0500" stop="20210417132100 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Efectos Mortales</title>
+  </programme>
+  <programme start="20210417132100 -0500" stop="20210417150100 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">RoboCop</title>
+  </programme>
+  <programme start="20210417150100 -0500" stop="20210417162600 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Cyborg</title>
+  </programme>
+  <programme start="20210417162600 -0500" stop="20210417181300 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Efectos Mortales</title>
+  </programme>
+  <programme start="20210417181300 -0500" stop="20210417200000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Volver al Futuro II</title>
+  </programme>
+  <programme start="20210417200000 -0500" stop="20210417215900 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Pelotón</title>
+  </programme>
+  <programme start="20210417215900 -0500" stop="20210417235000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">La emboscada</title>
+  </programme>
+  <programme start="20210417235000 -0500" stop="20210418012700 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">El implacable</title>
+  </programme>
+  <programme start="20210418012700 -0500" stop="20210418030900 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Asesinato a Precio Fijo</title>
+  </programme>
+  <programme start="20210418030900 -0500" stop="20210418042000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Without honor</title>
+  </programme>
+  <programme start="20210418042000 -0500" stop="20210418044000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210418044000 -0500" stop="20210418063200 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">A Nightingale Sang in Berkeley</title>
+  </programme>
+  <programme start="20210418063200 -0500" stop="20210418082200 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Horizontes desconocidos</title>
+  </programme>
+  <programme start="20210418082200 -0500" stop="20210418102600 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Duelo de titanes</title>
+  </programme>
+  <programme start="20210418102600 -0500" stop="20210418122600 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">El clan siciliano</title>
+  </programme>
+  <programme start="20210418122600 -0500" stop="20210418143600 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Siete Hombres y Un Destino</title>
+  </programme>
+  <programme start="20210418143600 -0500" stop="20210418161300 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">El implacable</title>
+  </programme>
+  <programme start="20210418161300 -0500" stop="20210418180200 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">¿Quién Llamó a la Cigüeña</title>
+  </programme>
+  <programme start="20210418180200 -0500" stop="20210418200000 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Fiebre de sábado por la noche</title>
+  </programme>
+  <programme start="20210418200000 -0500" stop="20210418214500 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Los puentes de Toko-Ri</title>
+  </programme>
+  <programme start="20210418214500 -0500" stop="20210418233800 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">Límite de seguridad</title>
+  </programme>
+  <programme start="20210418233800 -0500" stop="20210419014400 -0500" channel="STAR CLASSICS *FHD">
+    <title lang="es">El Motín del Caine</title>
+  </programme>
+  <programme start="20210415001100 -0500" stop="20210415014300 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Pasión por el triunfo 3</title>
+  </programme>
+  <programme start="20210415014300 -0500" stop="20210415025800 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">El Amor No Puede Esperar</title>
+  </programme>
+  <programme start="20210415025800 -0500" stop="20210415043500 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Yo, Mi mujer y Mi mujer muerta</title>
+  </programme>
+  <programme start="20210415043500 -0500" stop="20210415045000 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210415045000 -0500" stop="20210415062500 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Ella es así</title>
+  </programme>
+  <programme start="20210415062500 -0500" stop="20210415075200 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">American Summer</title>
+  </programme>
+  <programme start="20210415075200 -0500" stop="20210415092700 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">The Sapphires</title>
+  </programme>
+  <programme start="20210415092700 -0500" stop="20210415110400 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">The Inbetweeners La película</title>
+  </programme>
+  <programme start="20210415110400 -0500" stop="20210415124500 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Cosa de hombres</title>
+  </programme>
+  <programme start="20210415124500 -0500" stop="20210415141600 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Bienvenido a la jungla</title>
+  </programme>
+  <programme start="20210415141600 -0500" stop="20210415153000 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">El Amor No Puede Esperar</title>
+  </programme>
+  <programme start="20210415153000 -0500" stop="20210415164900 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Freeloaders</title>
+  </programme>
+  <programme start="20210415164900 -0500" stop="20210415183500 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">El viaje</title>
+  </programme>
+  <programme start="20210415183500 -0500" stop="20210415200000 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">The Longest Week</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415214800 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Amor ciego</title>
+  </programme>
+  <programme start="20210415214800 -0500" stop="20210415233600 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Rapidos y Fogosos</title>
+  </programme>
+  <programme start="20210415233600 -0500" stop="20210416010800 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Adultos Jovenes</title>
+  </programme>
+  <programme start="20210416233600 -0500" stop="20210417010800 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Adultos Jovenes</title>
+  </programme>
+  <programme start="20210417010800 -0500" stop="20210417031600 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">El amor menos pensado</title>
+  </programme>
+  <programme start="20210417031600 -0500" stop="20210417045500 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Cuando la vida sucede</title>
+  </programme>
+  <programme start="20210417045500 -0500" stop="20210417052500 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Better Things</title>
+  </programme>
+  <programme start="20210417052500 -0500" stop="20210417073400 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">El amor menos pensado</title>
+  </programme>
+  <programme start="20210417073400 -0500" stop="20210417091000 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Yo les doy un año</title>
+  </programme>
+  <programme start="20210417091000 -0500" stop="20210417105800 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Rapidos y Fogosos</title>
+  </programme>
+  <programme start="20210417105800 -0500" stop="20210417122600 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Goon</title>
+  </programme>
+  <programme start="20210417122600 -0500" stop="20210417140100 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">The Sapphires</title>
+  </programme>
+  <programme start="20210417140100 -0500" stop="20210417152000 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Una loca película de Esparta</title>
+  </programme>
+  <programme start="20210417152000 -0500" stop="20210417165000 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Tripulación Dave</title>
+  </programme>
+  <programme start="20210417165000 -0500" stop="20210417181800 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">El Abuelo Sinvergüenza 5</title>
+  </programme>
+  <programme start="20210417181800 -0500" stop="20210417200000 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">El arte de la seducción</title>
+  </programme>
+  <programme start="20210417200000 -0500" stop="20210417213700 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Locura de amor en Las Vegas</title>
+  </programme>
+  <programme start="20210417213700 -0500" stop="20210417230700 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">Stuber: Locos al Volante</title>
+  </programme>
+  <programme start="20210417230700 -0500" stop="20210418003000 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">The Jesus Rolls</title>
+  </programme>
+  <programme start="20210418230700 -0500" stop="20210419003000 -0500" channel="STAR COMEDY *FHD">
+    <title lang="es">The Jesus Rolls</title>
+  </programme>
+  <programme start="20210415014000 -0500" stop="20210415032500 -0500" channel="STAR FUN *FHD">
+    <title lang="es">La familia Bélier</title>
+  </programme>
+  <programme start="20210415032500 -0500" stop="20210415050200 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Liberal Arts</title>
+  </programme>
+  <programme start="20210415050200 -0500" stop="20210415063900 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Thor historias de Asgard</title>
+  </programme>
+  <programme start="20210415063900 -0500" stop="20210415081300 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Great Ghost Rescue</title>
+  </programme>
+  <programme start="20210415081300 -0500" stop="20210415100200 -0500" channel="STAR FUN *FHD">
+    <title lang="es">The Cup</title>
+  </programme>
+  <programme start="20210415100200 -0500" stop="20210415114000 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Ella es así</title>
+  </programme>
+  <programme start="20210415114000 -0500" stop="20210415130900 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Guerra de comida</title>
+  </programme>
+  <programme start="20210415130900 -0500" stop="20210415144300 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Liberal Arts</title>
+  </programme>
+  <programme start="20210415144300 -0500" stop="20210415162000 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Encontrando la navidad</title>
+  </programme>
+  <programme start="20210415162000 -0500" stop="20210415175200 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Pasión por el triunfo 3</title>
+  </programme>
+  <programme start="20210415175200 -0500" stop="20210415193300 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Las niñas de papá</title>
+  </programme>
+  <programme start="20210415193300 -0500" stop="20210415210000 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Mini espías y los ladrones del tiempo 4</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415224000 -0500" channel="STAR FUN *FHD">
+    <title lang="es">Run the Race</title>
+  </programme>
+  <programme start="20210415224000 -0500" stop="20210416000800 -0500" channel="STAR FUN *FHD">
+    <title lang="es">JL Ranch 2</title>
+  </programme>
+  <programme start="20210415013200 -0500" stop="20210415031500 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Perdida</title>
+  </programme>
+  <programme start="20210415031500 -0500" stop="20210415045100 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Poltergeist</title>
+  </programme>
+  <programme start="20210415045100 -0500" stop="20210415061900 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Código nuclear</title>
+  </programme>
+  <programme start="20210415061900 -0500" stop="20210415083400 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Divergente</title>
+  </programme>
+  <programme start="20210415083400 -0500" stop="20210415100000 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Marmaduke</title>
+  </programme>
+  <programme start="20210415100000 -0500" stop="20210415112900 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Hijos de padres separados</title>
+  </programme>
+  <programme start="20210415112900 -0500" stop="20210415132500 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415132500 -0500" stop="20210415144900 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Los locos Addams</title>
+  </programme>
+  <programme start="20210415144900 -0500" stop="20210415163800 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Escuela nocturna</title>
+  </programme>
+  <programme start="20210415163800 -0500" stop="20210415181900 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Marea de fuego 2</title>
+  </programme>
+  <programme start="20210415181900 -0500" stop="20210415200000 -0500" channel="STAR HIT *FHD">
+    <title lang="es">La vigilante del futuro</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415214300 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Si Decido Quedarme</title>
+  </programme>
+  <programme start="20210415214300 -0500" stop="20210415230700 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20210415230700 -0500" stop="20210416003500 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Madagascar 3 Los fugitivos</title>
+  </programme>
+  <programme start="20210416003500 -0500" stop="20210416021800 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Non-Stop: Sin Escalas</title>
+  </programme>
+  <programme start="20210416021800 -0500" stop="20210416043700 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Atrapame si puedes</title>
+  </programme>
+  <programme start="20210416043700 -0500" stop="20210416054300 -0500" channel="STAR HIT *FHD">
+    <title lang="es">El hombre duplicado</title>
+  </programme>
+  <programme start="20210416054300 -0500" stop="20210416071000 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Marmaduke</title>
+  </programme>
+  <programme start="20210416071000 -0500" stop="20210416084000 -0500" channel="STAR HIT *FHD">
+    <title lang="es">El Libro de la Vida</title>
+  </programme>
+  <programme start="20210416084000 -0500" stop="20210416101600 -0500" channel="STAR HIT *FHD">
+    <title lang="es">El Gran Hotel Budapest</title>
+  </programme>
+  <programme start="20210416101600 -0500" stop="20210416120000 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Almas condenadas</title>
+  </programme>
+  <programme start="20210416120000 -0500" stop="20210416140900 -0500" channel="STAR HIT *FHD">
+    <title lang="es">El secreto de sus ojos</title>
+  </programme>
+  <programme start="20210416140900 -0500" stop="20210416162900 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Atrapame si puedes</title>
+  </programme>
+  <programme start="20210416162900 -0500" stop="20210416181400 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Perdida</title>
+  </programme>
+  <programme start="20210416181400 -0500" stop="20210416200000 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Non-Stop: Sin Escalas</title>
+  </programme>
+  <programme start="20210416200000 -0500" stop="20210416212900 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Escuadrón de la muerte</title>
+  </programme>
+  <programme start="20210416212900 -0500" stop="20210416233600 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Duro de Matar 4.0</title>
+  </programme>
+  <programme start="20210416233600 -0500" stop="20210417020300 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Perdida (Gone Girl)</title>
+  </programme>
+  <programme start="20210417020300 -0500" stop="20210417034500 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Código Sombra Jack Ryan</title>
+  </programme>
+  <programme start="20210417034500 -0500" stop="20210417052600 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Marea de fuego 2</title>
+  </programme>
+  <programme start="20210417052600 -0500" stop="20210417065700 -0500" channel="STAR HIT *FHD">
+    <title lang="es">El hombre duplicado</title>
+  </programme>
+  <programme start="20210417065700 -0500" stop="20210417081900 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Los locos Addams</title>
+  </programme>
+  <programme start="20210417081900 -0500" stop="20210417100800 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Rey de Ladrones</title>
+  </programme>
+  <programme start="20210417100800 -0500" stop="20210417123600 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Perdida (Gone Girl)</title>
+  </programme>
+  <programme start="20210417123600 -0500" stop="20210417145000 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Logan Wolverine</title>
+  </programme>
+  <programme start="20210417145000 -0500" stop="20210417161900 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Búsqueda implacable 2</title>
+  </programme>
+  <programme start="20210417161900 -0500" stop="20210417180700 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Búsqueda Implacable 3</title>
+  </programme>
+  <programme start="20210417180700 -0500" stop="20210417200000 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Ted 2</title>
+  </programme>
+  <programme start="20210417200000 -0500" stop="20210417214700 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Pequeña? Otra vez</title>
+  </programme>
+  <programme start="20210417214700 -0500" stop="20210417235400 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Rápidos y Furiosos 5</title>
+  </programme>
+  <programme start="20210417235400 -0500" stop="20210418020600 -0500" channel="STAR HIT *FHD">
+    <title lang="es">Rápidos y Furiosos 7</title>
+  </programme>
+  <programme start="20210415000200 -0500" stop="20210415005300 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outcast</title>
+  </programme>
+  <programme start="20210415005300 -0500" stop="20210415013700 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210415013700 -0500" stop="20210415022300 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210415022300 -0500" stop="20210415030900 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210415030900 -0500" stop="20210415044000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20210415044000 -0500" stop="20210415052500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Empire</title>
+  </programme>
+  <programme start="20210415052500 -0500" stop="20210415060900 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Empire</title>
+  </programme>
+  <programme start="20210415060900 -0500" stop="20210415070500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Pose</title>
+  </programme>
+  <programme start="20210415070500 -0500" stop="20210415074800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Pose</title>
+  </programme>
+  <programme start="20210415074800 -0500" stop="20210415083000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Legion</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415091800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Legion</title>
+  </programme>
+  <programme start="20210415091800 -0500" stop="20210415100500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Sitiados</title>
+  </programme>
+  <programme start="20210415100500 -0500" stop="20210415105800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Sitiados</title>
+  </programme>
+  <programme start="20210415105800 -0500" stop="20210415115300 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Impuros</title>
+  </programme>
+  <programme start="20210415115300 -0500" stop="20210415124000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Impuros</title>
+  </programme>
+  <programme start="20210415124000 -0500" stop="20210415132500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20210415132500 -0500" stop="20210415140800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20210415140800 -0500" stop="20210415145900 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outcast</title>
+  </programme>
+  <programme start="20210415145900 -0500" stop="20210415154600 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outcast</title>
+  </programme>
+  <programme start="20210415154600 -0500" stop="20210415163200 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Snowfall</title>
+  </programme>
+  <programme start="20210415163200 -0500" stop="20210415171600 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Snowfall</title>
+  </programme>
+  <programme start="20210415171600 -0500" stop="20210415175900 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Riviera</title>
+  </programme>
+  <programme start="20210415175900 -0500" stop="20210415184300 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Riviera</title>
+  </programme>
+  <programme start="20210415184300 -0500" stop="20210415192500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210415192500 -0500" stop="20210415200800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Britannia</title>
+  </programme>
+  <programme start="20210415200800 -0500" stop="20210415210000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Devs</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415214500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210415214500 -0500" stop="20210415221100 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Mr Inbetween</title>
+  </programme>
+  <programme start="20210415221100 -0500" stop="20210415223700 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Mr Inbetween</title>
+  </programme>
+  <programme start="20210415223700 -0500" stop="20210415232700 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Snowfall</title>
+  </programme>
+  <programme start="20210415232700 -0500" stop="20210416001800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outcast</title>
+  </programme>
+  <programme start="20210416232700 -0500" stop="20210417001800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outcast</title>
+  </programme>
+  <programme start="20210417001800 -0500" stop="20210417010500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outcast</title>
+  </programme>
+  <programme start="20210417010500 -0500" stop="20210417015000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210417015000 -0500" stop="20210417023500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210417023500 -0500" stop="20210417032100 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210417032100 -0500" stop="20210417042200 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20210417042200 -0500" stop="20210417050700 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Empire</title>
+  </programme>
+  <programme start="20210417050700 -0500" stop="20210417055300 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Empire</title>
+  </programme>
+  <programme start="20210417055300 -0500" stop="20210417063600 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Pose</title>
+  </programme>
+  <programme start="20210417063600 -0500" stop="20210417074400 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Pose</title>
+  </programme>
+  <programme start="20210417074400 -0500" stop="20210417083100 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Legion</title>
+  </programme>
+  <programme start="20210417083100 -0500" stop="20210417092400 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Legion</title>
+  </programme>
+  <programme start="20210417092400 -0500" stop="20210417101800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Sitiados</title>
+  </programme>
+  <programme start="20210417101800 -0500" stop="20210417111000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Sitiados</title>
+  </programme>
+  <programme start="20210417111000 -0500" stop="20210417115700 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Impuros</title>
+  </programme>
+  <programme start="20210417115700 -0500" stop="20210417125400 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Impuros</title>
+  </programme>
+  <programme start="20210417125400 -0500" stop="20210417133700 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20210417133700 -0500" stop="20210417142000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20210417142000 -0500" stop="20210417150600 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outcast</title>
+  </programme>
+  <programme start="20210417150600 -0500" stop="20210417155800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outcast</title>
+  </programme>
+  <programme start="20210417155800 -0500" stop="20210417164200 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Snowfall</title>
+  </programme>
+  <programme start="20210417164200 -0500" stop="20210417172800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Snowfall</title>
+  </programme>
+  <programme start="20210417172800 -0500" stop="20210417181300 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Riviera</title>
+  </programme>
+  <programme start="20210417181300 -0500" stop="20210417190000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Riviera</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417200100 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20210417200100 -0500" stop="20210417212900 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20210417212900 -0500" stop="20210417222400 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20210417222400 -0500" stop="20210417232300 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20210417232300 -0500" stop="20210418002400 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20210418002400 -0500" stop="20210418011600 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outlander</title>
+  </programme>
+  <programme start="20210418011600 -0500" stop="20210418020200 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210418020200 -0500" stop="20210418025100 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outcast</title>
+  </programme>
+  <programme start="20210418025100 -0500" stop="20210418034200 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Outcast</title>
+  </programme>
+  <programme start="20210418034200 -0500" stop="20210418042000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20210418042000 -0500" stop="20210418050500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210418050500 -0500" stop="20210418055100 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210418055100 -0500" stop="20210418064000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210418064000 -0500" stop="20210418074800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Pose</title>
+  </programme>
+  <programme start="20210418074800 -0500" stop="20210418084100 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Fosse/Verdon</title>
+  </programme>
+  <programme start="20210418084100 -0500" stop="20210418092600 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Fosse/Verdon</title>
+  </programme>
+  <programme start="20210418092600 -0500" stop="20210418100800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Fosse/Verdon</title>
+  </programme>
+  <programme start="20210418100800 -0500" stop="20210418105100 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Fosse/Verdon</title>
+  </programme>
+  <programme start="20210418105100 -0500" stop="20210418113600 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Mrs. America</title>
+  </programme>
+  <programme start="20210418113600 -0500" stop="20210418122500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Mrs. America</title>
+  </programme>
+  <programme start="20210418122500 -0500" stop="20210418130900 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Mrs. America</title>
+  </programme>
+  <programme start="20210418130900 -0500" stop="20210418135900 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Mrs. America</title>
+  </programme>
+  <programme start="20210418135900 -0500" stop="20210418145300 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Mrs. America</title>
+  </programme>
+  <programme start="20210418145300 -0500" stop="20210418153500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Riviera</title>
+  </programme>
+  <programme start="20210418153500 -0500" stop="20210418161900 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Riviera</title>
+  </programme>
+  <programme start="20210418161900 -0500" stop="20210418170400 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Riviera</title>
+  </programme>
+  <programme start="20210418170400 -0500" stop="20210418172900 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">What we do in the shadows</title>
+  </programme>
+  <programme start="20210418172900 -0500" stop="20210418181600 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">This is Us</title>
+  </programme>
+  <programme start="20210418181600 -0500" stop="20210418190000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Council of Dads</title>
+  </programme>
+  <programme start="20210418190000 -0500" stop="20210418194500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210418194500 -0500" stop="20210418203100 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210418203100 -0500" stop="20210418211800 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210418211800 -0500" stop="20210418220700 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210418220700 -0500" stop="20210418225500 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Vikings</title>
+  </programme>
+  <programme start="20210418225500 -0500" stop="20210418234000 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Mrs. America</title>
+  </programme>
+  <programme start="20210418234000 -0500" stop="20210419002900 -0500" channel="STAR SERIES *FHD">
+    <title lang="es">Mrs. America</title>
+  </programme>
+  <programme start="20210415015800 -0500" stop="20210415021900 -0500" channel="FX *FHD">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210415021900 -0500" stop="20210415024200 -0500" channel="FX *FHD">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210415024200 -0500" stop="20210415030300 -0500" channel="FX *FHD">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210415030300 -0500" stop="20210415032400 -0500" channel="FX *FHD">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210415032400 -0500" stop="20210415034800 -0500" channel="FX *FHD">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210415034800 -0500" stop="20210415043300 -0500" channel="FX *FHD">
+    <title lang="es">The Bridge</title>
+  </programme>
+  <programme start="20210415043300 -0500" stop="20210415051300 -0500" channel="FX *FHD">
+    <title lang="es">The Bridge</title>
+  </programme>
+  <programme start="20210415051300 -0500" stop="20210415060000 -0500" channel="FX *FHD">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210415060000 -0500" stop="20210415070000 -0500" channel="FX *FHD">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415085500 -0500" channel="FX *FHD">
+    <title lang="es">Asesina de Ocasión</title>
+  </programme>
+  <programme start="20210415085500 -0500" stop="20210415094600 -0500" channel="FX *FHD">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210415094600 -0500" stop="20210415103600 -0500" channel="FX *FHD">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210415103600 -0500" stop="20210415105800 -0500" channel="FX *FHD">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210415105800 -0500" stop="20210415112100 -0500" channel="FX *FHD">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210415112100 -0500" stop="20210415114600 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210415114600 -0500" stop="20210415120700 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210415120700 -0500" stop="20210415123100 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210415123100 -0500" stop="20210415125700 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210415125700 -0500" stop="20210415131800 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210415131800 -0500" stop="20210415141000 -0500" channel="FX *FHD">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210415141000 -0500" stop="20210415150100 -0500" channel="FX *FHD">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210415150100 -0500" stop="20210415152500 -0500" channel="FX *FHD">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210415152500 -0500" stop="20210415155100 -0500" channel="FX *FHD">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210415155100 -0500" stop="20210415161500 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210415161500 -0500" stop="20210415164100 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210415164100 -0500" stop="20210415183800 -0500" channel="FX *FHD">
+    <title lang="es">El Precio del Mañana</title>
+  </programme>
+  <programme start="20210415183800 -0500" stop="20210415202600 -0500" channel="FX *FHD">
+    <title lang="es">¡Esto es Guerra</title>
+  </programme>
+  <programme start="20210415202600 -0500" stop="20210415220000 -0500" channel="FX *FHD">
+    <title lang="es">Hombres de Negro 2</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210416000000 -0500" channel="FX *FHD">
+    <title lang="es">Kingsman: El Servicio Secreto</title>
+  </programme>
+  <programme start="20210416000000 -0500" stop="20210416014000 -0500" channel="FX *FHD">
+    <title lang="es">Desaparecido</title>
+  </programme>
+  <programme start="20210416014000 -0500" stop="20210416020000 -0500" channel="FX *FHD">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210416020000 -0500" stop="20210416023000 -0500" channel="FX *FHD">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210416023000 -0500" stop="20210416030000 -0500" channel="FX *FHD">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210416030000 -0500" stop="20210416032000 -0500" channel="FX *FHD">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210416032000 -0500" stop="20210416041500 -0500" channel="FX *FHD">
+    <title lang="es">The Bridge</title>
+  </programme>
+  <programme start="20210416041500 -0500" stop="20210416051500 -0500" channel="FX *FHD">
+    <title lang="es">The Bridge</title>
+  </programme>
+  <programme start="20210416051500 -0500" stop="20210416060800 -0500" channel="FX *FHD">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210416060800 -0500" stop="20210416070000 -0500" channel="FX *FHD">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210416070000 -0500" stop="20210416084000 -0500" channel="FX *FHD">
+    <title lang="es">Luchador Americano El Mago</title>
+  </programme>
+  <programme start="20210416084000 -0500" stop="20210416093000 -0500" channel="FX *FHD">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210416093000 -0500" stop="20210416103000 -0500" channel="FX *FHD">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210416103000 -0500" stop="20210416110000 -0500" channel="FX *FHD">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210416110000 -0500" stop="20210416113000 -0500" channel="FX *FHD">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210416113000 -0500" stop="20210416115500 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210416115500 -0500" stop="20210416122500 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210416122500 -0500" stop="20210416131500 -0500" channel="FX *FHD">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210416131500 -0500" stop="20210416140500 -0500" channel="FX *FHD">
+    <title lang="es">Berlin Station</title>
+  </programme>
+  <programme start="20210416140500 -0500" stop="20210416142500 -0500" channel="FX *FHD">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210416142500 -0500" stop="20210416144000 -0500" channel="FX *FHD">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210416144000 -0500" stop="20210416150000 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210416150000 -0500" stop="20210416153900 -0500" channel="FX *FHD">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210416153900 -0500" stop="20210416181000 -0500" channel="FX *FHD">
+    <title lang="es">Una Boda de Locos</title>
+  </programme>
+  <programme start="20210416181000 -0500" stop="20210416200000 -0500" channel="FX *FHD">
+    <title lang="es">Desaparecido</title>
+  </programme>
+  <programme start="20210416200000 -0500" stop="20210416220000 -0500" channel="FX *FHD">
+    <title lang="es">Son como niños</title>
+  </programme>
+  <programme start="20210416220000 -0500" stop="20210417003500 -0500" channel="FX *FHD">
+    <title lang="es">Noche de venganza</title>
+  </programme>
+  <programme start="20210417220000 -0500" stop="20210418003500 -0500" channel="FX *FHD">
+    <title lang="es">Noche de venganza</title>
+  </programme>
+  <programme start="20210418003500 -0500" stop="20210418025500 -0500" channel="FX *FHD">
+    <title lang="es">Viudas</title>
+  </programme>
+  <programme start="20210418025500 -0500" stop="20210418045500 -0500" channel="FX *FHD">
+    <title lang="es">¿Por Qué Él</title>
+  </programme>
+  <programme start="20210418045500 -0500" stop="20210418061400 -0500" channel="FX *FHD">
+    <title lang="es">Scary Movie 5</title>
+  </programme>
+  <programme start="20210418061400 -0500" stop="20210418070000 -0500" channel="FX *FHD">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210418070000 -0500" stop="20210418085300 -0500" channel="FX *FHD">
+    <title lang="es">Volando alto</title>
+  </programme>
+  <programme start="20210418085300 -0500" stop="20210418100200 -0500" channel="FX *FHD">
+    <title lang="es">Legion</title>
+  </programme>
+  <programme start="20210418100200 -0500" stop="20210418115000 -0500" channel="FX *FHD">
+    <title lang="es">Legion</title>
+  </programme>
+  <programme start="20210418115000 -0500" stop="20210418134000 -0500" channel="FX *FHD">
+    <title lang="es">Asesina de Ocasión</title>
+  </programme>
+  <programme start="20210418134000 -0500" stop="20210418154000 -0500" channel="FX *FHD">
+    <title lang="es">Asistente de compras</title>
+  </programme>
+  <programme start="20210418154000 -0500" stop="20210418172500 -0500" channel="FX *FHD">
+    <title lang="es">Hombres de Negro 2</title>
+  </programme>
+  <programme start="20210418172500 -0500" stop="20210418191700 -0500" channel="FX *FHD">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210418191700 -0500" stop="20210418220000 -0500" channel="FX *FHD">
+    <title lang="es">Logan Wolverine</title>
+  </programme>
+  <programme start="20210418220000 -0500" stop="20210419003000 -0500" channel="FX *FHD">
+    <title lang="es">Misión Imposible - Repercusió</title>
+  </programme>
+  <programme start="20210415010900 -0500" stop="20210415030100 -0500" channel="FXM *FHD">
+    <title lang="es">La Carrera de la Muerte 3: Infierno</title>
+  </programme>
+  <programme start="20210415030100 -0500" stop="20210415050900 -0500" channel="FXM *FHD">
+    <title lang="es">Vida Bandida</title>
+  </programme>
+  <programme start="20210415050900 -0500" stop="20210415063700 -0500" channel="FXM *FHD">
+    <title lang="es">Mini espías</title>
+  </programme>
+  <programme start="20210415063700 -0500" stop="20210415070000 -0500" channel="FXM *FHD">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415085500 -0500" channel="FXM *FHD">
+    <title lang="es">Mi Amigo Paulie</title>
+  </programme>
+  <programme start="20210415085500 -0500" stop="20210415102200 -0500" channel="FXM *FHD">
+    <title lang="es">La llave mágica</title>
+  </programme>
+  <programme start="20210415102200 -0500" stop="20210415123000 -0500" channel="FXM *FHD">
+    <title lang="es">Indiana Jones y los cazadores</title>
+  </programme>
+  <programme start="20210415123000 -0500" stop="20210415144400 -0500" channel="FXM *FHD">
+    <title lang="es">Indiana Jones y el templo</title>
+  </programme>
+  <programme start="20210415144400 -0500" stop="20210415170300 -0500" channel="FXM *FHD">
+    <title lang="es">Indiana Jones</title>
+  </programme>
+  <programme start="20210415170300 -0500" stop="20210415185600 -0500" channel="FXM *FHD">
+    <title lang="es">Doble Riesgo</title>
+  </programme>
+  <programme start="20210415185600 -0500" stop="20210415210000 -0500" channel="FXM *FHD">
+    <title lang="es">RoboCop</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415231000 -0500" channel="FXM *FHD">
+    <title lang="es">Indiana Jones y el reino</title>
+  </programme>
+  <programme start="20210415231000 -0500" stop="20210416011300 -0500" channel="FXM *FHD">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210416231000 -0500" stop="20210417011300 -0500" channel="FXM *FHD">
+    <title lang="es">El Planeta de los Simios</title>
+  </programme>
+  <programme start="20210417011300 -0500" stop="20210417031000 -0500" channel="FXM *FHD">
+    <title lang="es">Un vuelco del corazón</title>
+  </programme>
+  <programme start="20210417031000 -0500" stop="20210417052000 -0500" channel="FXM *FHD">
+    <title lang="es">Las nuevas ropas del Emperador</title>
+  </programme>
+  <programme start="20210417052000 -0500" stop="20210417070200 -0500" channel="FXM *FHD">
+    <title lang="es">Pena ajena</title>
+  </programme>
+  <programme start="20210417070200 -0500" stop="20210417085400 -0500" channel="FXM *FHD">
+    <title lang="es">Arañas 3D</title>
+  </programme>
+  <programme start="20210417085400 -0500" stop="20210417110000 -0500" channel="FXM *FHD">
+    <title lang="es">El Profesor Chiflado</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417130400 -0500" channel="FXM *FHD">
+    <title lang="es">Indiana Jones y el templo</title>
+  </programme>
+  <programme start="20210417130400 -0500" stop="20210417151200 -0500" channel="FXM *FHD">
+    <title lang="es">Shakespeare apasionado</title>
+  </programme>
+  <programme start="20210417151200 -0500" stop="20210417170400 -0500" channel="FXM *FHD">
+    <title lang="es">Un vuelco del corazón</title>
+  </programme>
+  <programme start="20210417170400 -0500" stop="20210417191400 -0500" channel="FXM *FHD">
+    <title lang="es">Indiana Jones y el reino</title>
+  </programme>
+  <programme start="20210417191400 -0500" stop="20210417210000 -0500" channel="FXM *FHD">
+    <title lang="es">Shaft</title>
+  </programme>
+  <programme start="20210417210000 -0500" stop="20210417223300 -0500" channel="FXM *FHD">
+    <title lang="es">Espía por error</title>
+  </programme>
+  <programme start="20210417223300 -0500" stop="20210418003800 -0500" channel="FXM *FHD">
+    <title lang="es">RoboCop</title>
+  </programme>
+  <programme start="20210418003800 -0500" stop="20210418022400 -0500" channel="FXM *FHD">
+    <title lang="es">Ghost rider</title>
+  </programme>
+  <programme start="20210418022400 -0500" stop="20210418044100 -0500" channel="FXM *FHD">
+    <title lang="es">Vuelo a la gloria</title>
+  </programme>
+  <programme start="20210418044100 -0500" stop="20210418070000 -0500" channel="FXM *FHD">
+    <title lang="es">¡Qué Linda Adivina</title>
+  </programme>
+  <programme start="20210418070000 -0500" stop="20210418083800 -0500" channel="FXM *FHD">
+    <title lang="es">La llave mágica</title>
+  </programme>
+  <programme start="20210418083800 -0500" stop="20210418100000 -0500" channel="FXM *FHD">
+    <title lang="es">Escuadrón antimonstruos</title>
+  </programme>
+  <programme start="20210418100000 -0500" stop="20210418114400 -0500" channel="FXM *FHD">
+    <title lang="es">Indiana Jones</title>
+  </programme>
+  <programme start="20210418114400 -0500" stop="20210418140100 -0500" channel="FXM *FHD">
+    <title lang="es">Gente como uno</title>
+  </programme>
+  <programme start="20210418140100 -0500" stop="20210418160700 -0500" channel="FXM *FHD">
+    <title lang="es">Barton Fink</title>
+  </programme>
+  <programme start="20210418160700 -0500" stop="20210418182900 -0500" channel="FXM *FHD">
+    <title lang="es">Rain Man</title>
+  </programme>
+  <programme start="20210418182900 -0500" stop="20210418210000 -0500" channel="FXM *FHD">
+    <title lang="es">El sustituto</title>
+  </programme>
+  <programme start="20210418210000 -0500" stop="20210418224300 -0500" channel="FXM *FHD">
+    <title lang="es">Al Diablo Con El Diablo</title>
+  </programme>
+  <programme start="20210418224300 -0500" stop="20210419004000 -0500" channel="FXM *FHD">
+    <title lang="es">Fuerzas de la naturaleza</title>
+  </programme>
+</tv>
