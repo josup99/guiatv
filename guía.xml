@@ -1,0 +1,859 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="EC | ECUAVISA *FHD">
+    <display-name lang="es">EC | ECUAVISA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | ECUAVISA *FHD | op2">
+    <display-name lang="es">EC | ECUAVISA *FHD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | ECUAVISA *HD">
+    <display-name lang="es">EC | ECUAVISA *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | ECUAVISA *HD | op2">
+    <display-name lang="es">EC | ECUAVISA *HD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | ECUAVISA *HQ">
+    <display-name lang="es">EC | ECUAVISA *HQ</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | ECUAVISA *HQ | op2">
+    <display-name lang="es">EC | ECUAVISA *HQ | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="STAR CHANNEL *FHD">
+    <display-name lang="es">STAR CHANNEL *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416150000 -0500" stop="20210416160000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *FHD">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416150000 -0500" stop="20210416160000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *FHD | op2">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416150000 -0500" stop="20210416160000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *HD">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416150000 -0500" stop="20210416160000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *HD | op2">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416150000 -0500" stop="20210416160000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *HQ">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415055500 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Verdades Secretas</title>
+  </programme>
+  <programme start="20210415055500 -0500" stop="20210415065500 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415065500 -0500" stop="20210415073000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Contacto directo</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415083000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415093000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415103000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Dulce Venganza</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415130000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">En Contacto</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415150000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Caso Cerrado</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415170000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Soñar No Cuesta Nada</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Hermanas</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Telenovela</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Meryem</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">La fuerza del amor</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210416150000 -0500" stop="20210416160000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210417050000 -0500" stop="20210417060000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Así pasa</title>
+  </programme>
+  <programme start="20210417060000 -0500" stop="20210417070000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Producción nacional</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417080000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Ruta ancestral</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417090000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Tventas</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417093000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">El Pan Nuestro</title>
+  </programme>
+  <programme start="20210417093000 -0500" stop="20210417103000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Hacia un Nuevo Estilo de Vida</title>
+  </programme>
+  <programme start="20210417103000 -0500" stop="20210417110000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Tres familias</title>
+  </programme>
+  <programme start="20210417110000 -0500" stop="20210417120000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Bsc TV</title>
+  </programme>
+  <programme start="20210417120000 -0500" stop="20210417130000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210417130000 -0500" stop="20210417140000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Teen Titans Go! To the Movies</title>
+  </programme>
+  <programme start="20210417140000 -0500" stop="20210417150000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210417150000 -0500" stop="20210417154500 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Arrow</title>
+  </programme>
+  <programme start="20210417154500 -0500" stop="20210417163000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Smallville</title>
+  </programme>
+  <programme start="20210417163000 -0500" stop="20210417190000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Warcraft El origen</title>
+  </programme>
+  <programme start="20210417190000 -0500" stop="20210417193000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Televistazo</title>
+  </programme>
+  <programme start="20210417193000 -0500" stop="20210417223000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Mentiras verdaderas</title>
+  </programme>
+  <programme start="20210417223000 -0500" stop="20210417230000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Las huecas</title>
+  </programme>
+  <programme start="20210417230000 -0500" stop="20210418010000 -0500" channel="EC | ECUAVISA *HQ | op2">
+    <title lang="es">Riesgo en el aire</title>
+  </programme>
+  <programme start="20210415001500 -0500" stop="20210415004500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415004500 -0500" stop="20210415033500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Watchmen Los vigilantes</title>
+  </programme>
+  <programme start="20210415033500 -0500" stop="20210415061500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Resident Evil: El Huésped Maldito</title>
+  </programme>
+  <programme start="20210415061500 -0500" stop="20210415070000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415073000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415080000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210415080000 -0500" stop="20210415083000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210415083000 -0500" stop="20210415090000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210415090000 -0500" stop="20210415100000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210415100000 -0500" stop="20210415120000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Cazando salvajes</title>
+  </programme>
+  <programme start="20210415120000 -0500" stop="20210415123000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415123000 -0500" stop="20210415130000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415130000 -0500" stop="20210415140000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20210415140000 -0500" stop="20210415153000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Vacaciones inesperadas</title>
+  </programme>
+  <programme start="20210415153000 -0500" stop="20210415155500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Will &amp; Grace</title>
+  </programme>
+  <programme start="20210415155500 -0500" stop="20210415161500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Will &amp; Grace</title>
+  </programme>
+  <programme start="20210415161500 -0500" stop="20210415164000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415164000 -0500" stop="20210415171000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415171000 -0500" stop="20210415194000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Kingsman: El Círculo Dorado</title>
+  </programme>
+  <programme start="20210415194000 -0500" stop="20210415200000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415203000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415203000 -0500" stop="20210415210000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415213000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Maratón Los Simpson</title>
+  </programme>
+  <programme start="20210415213000 -0500" stop="20210415220000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Maratón Los Simpson</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210416001500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Terminator: Destino Oculto</title>
+  </programme>
+  <programme start="20210416220000 -0500" stop="20210417001500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Terminator: Destino Oculto</title>
+  </programme>
+  <programme start="20210417001500 -0500" stop="20210417004500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417004500 -0500" stop="20210417011500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417011500 -0500" stop="20210417031000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">El Depredador</title>
+  </programme>
+  <programme start="20210417031000 -0500" stop="20210417061500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Poder sin límites</title>
+  </programme>
+  <programme start="20210417061500 -0500" stop="20210417070000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20210417070000 -0500" stop="20210417073000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210417073000 -0500" stop="20210417080000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210417080000 -0500" stop="20210417083000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210417083000 -0500" stop="20210417090000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210417090000 -0500" stop="20210417100000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Infomercial</title>
+  </programme>
+  <programme start="20210417100000 -0500" stop="20210417120500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Vecinos cercanos del tercer tipo</title>
+  </programme>
+  <programme start="20210417120500 -0500" stop="20210417125700 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">S.W.A.T. Undersiege</title>
+  </programme>
+  <programme start="20210417125700 -0500" stop="20210417151500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">¡Mamma Mía! Vamos Otra Vez</title>
+  </programme>
+  <programme start="20210417151500 -0500" stop="20210417174000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Juegos del Hambre: En Llamas</title>
+  </programme>
+  <programme start="20210417174000 -0500" stop="20210417194900 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Olé!: El Viaje de Ferdinand</title>
+  </programme>
+  <programme start="20210417194900 -0500" stop="20210417201400 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417201400 -0500" stop="20210417204400 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417204400 -0500" stop="20210417211000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417211000 -0500" stop="20210417213200 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417213200 -0500" stop="20210417220000 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210417220000 -0500" stop="20210418001500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Familia al Instante</title>
+  </programme>
+  <programme start="20210418220000 -0500" stop="20210419001500 -0500" channel="STAR CHANNEL *FHD">
+    <title lang="es">Familia al Instante</title>
+  </programme>
+</tv>
