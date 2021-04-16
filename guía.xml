@@ -196,6 +196,46 @@
     <display-name lang="es">DISTRITO COMEDIA *FHD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+    <channel id="EC | TELEAMAZONAS *HQ">
+    <display-name lang="es">EC | TELEAMAZONAS *HQ</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | TELEAMAZONAS *HQ | op2">
+    <display-name lang="es">EC | TELEAMAZONAS *HQ | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | TELEAMAZONAS *HD">
+    <display-name lang="es">EC | TELEAMAZONAS *HD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | TELEAMAZONAS *HD | op2">
+    <display-name lang="es">EC | TELEAMAZONAS *HD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | TELEAMAZONAS *FHD">
+    <display-name lang="es">EC | TELEAMAZONAS *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="EC | TELEAMAZONAS *FHD | op2">
+    <display-name lang="es">EC | TELEAMAZONAS *FHD | op2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="HBO *FHD">
+    <display-name lang="es">HBO *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="COMEDY CENTRAL *FHD">
+    <display-name lang="es">COMEDY CENTRAL *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DISTRITO COMEDIA *FHD">
+    <display-name lang="es">DISTRITO COMEDIA *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="WARNER CHANNEL *FHD">
+    <display-name lang="es">WARNER CHANNEL *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <programme start="20210415023000 -0500" stop="20210415050000 -0500" channel="EC | ECUAVISA *FHD">
     <title lang="es">Así pasa</title>
   </programme>
@@ -1131,99 +1171,6 @@
   </programme>
   <programme start="20210415231000 -0500" stop="20210416011300 -0500" channel="FXM *FHD">
     <title lang="es">El Planeta de los Simios</title>
-  </programme>
-  <programme start="20210415000700 -0500" stop="20210415005400 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Riverdale</title>
-  </programme>
-  <programme start="20210415005400 -0500" stop="20210415011700 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Seinfeld</title>
-  </programme>
-  <programme start="20210415011700 -0500" stop="20210415014000 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Seinfeld</title>
-  </programme>
-  <programme start="20210415014000 -0500" stop="20210415020500 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Seinfeld</title>
-  </programme>
-  <programme start="20210415020500 -0500" stop="20210415022900 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Seinfeld</title>
-  </programme>
-  <programme start="20210415022900 -0500" stop="20210415024900 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">The Big Bang Theory</title>
-  </programme>
-  <programme start="20210415024900 -0500" stop="20210415031000 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">The Big Bang Theory</title>
-  </programme>
-  <programme start="20210415031000 -0500" stop="20210415033200 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">The Big Bang Theory</title>
-  </programme>
-  <programme start="20210415033200 -0500" stop="20210415035300 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">The Big Bang Theory</title>
-  </programme>
-  <programme start="20210415035300 -0500" stop="20210415041500 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Maratón Friends</title>
-  </programme>
-  <programme start="20210415041500 -0500" stop="20210415043700 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Maratón Friends</title>
-  </programme>
-  <programme start="20210415043700 -0500" stop="20210415060000 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Warner Series Block</title>
-  </programme>
-  <programme start="20210415060000 -0500" stop="20210415073300 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Warner Series Block</title>
-  </programme>
-  <programme start="20210415073300 -0500" stop="20210415075800 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Seinfeld</title>
-  </programme>
-  <programme start="20210415075800 -0500" stop="20210415082400 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Seinfeld</title>
-  </programme>
-  <programme start="20210415082400 -0500" stop="20210415085100 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Seinfeld</title>
-  </programme>
-  <programme start="20210415085100 -0500" stop="20210415093700 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Seinfeld</title>
-  </programme>
-  <programme start="20210415093700 -0500" stop="20210415113800 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Personal effects</title>
-  </programme>
-  <programme start="20210415113800 -0500" stop="20210415134400 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">El ilusionista</title>
-  </programme>
-  <programme start="20210415134400 -0500" stop="20210415140800 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Maratón Friends</title>
-  </programme>
-  <programme start="20210415140800 -0500" stop="20210415143300 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Maratón Friends</title>
-  </programme>
-  <programme start="20210415143300 -0500" stop="20210415150000 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Maratón Friends</title>
-  </programme>
-  <programme start="20210415150000 -0500" stop="20210415152300 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">The Big Bang Theory</title>
-  </programme>
-  <programme start="20210415152300 -0500" stop="20210415154300 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">The Big Bang Theory</title>
-  </programme>
-  <programme start="20210415154300 -0500" stop="20210415160400 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">The Big Bang Theory</title>
-  </programme>
-  <programme start="20210415160400 -0500" stop="20210415162900 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">The Big Bang Theory</title>
-  </programme>
-  <programme start="20210415162900 -0500" stop="20210415172000 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Riverdale</title>
-  </programme>
-  <programme start="20210415172000 -0500" stop="20210415195400 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Robin Hood</title>
-  </programme>
-  <programme start="20210415195400 -0500" stop="20210415220000 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Kong: La Isla Calavera</title>
-  </programme>
-  <programme start="20210415220000 -0500" stop="20210415233800 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Viaje al centro de la tierra</title>
-  </programme>
-  <programme start="20210415233800 -0500" stop="20210416002700 -0500" channel="WARNER CHANNEL *FHD">
-    <title lang="es">Flash</title>
   </programme>
   <programme start="20210415002000 -0500" stop="20210415011000 -0500" channel="UNIVERSAL CHANNEL *FHD">
     <title lang="es">Chicago PD</title>
@@ -2919,5 +2866,911 @@
   </programme>
   <programme start="20210415230000 -0500" stop="20210416000000 -0500" channel="EC | TC TELEVISION *FHD | op2">
     <title lang="es">Esto es fútbol</title>
+  </programme>
+    <programme start="20210415001500 -0500" stop="20210415011500 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210415011500 -0500" stop="20210415020000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Vivos</title>
+  </programme>
+  <programme start="20210415020000 -0500" stop="20210415023000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415024500 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210415024500 -0500" stop="20210415033000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20210415033000 -0500" stop="20210415040000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415040000 -0500" stop="20210415041500 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Camaramanía</title>
+  </programme>
+  <programme start="20210415041500 -0500" stop="20210415050000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415060000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">No-Ticias</title>
+  </programme>
+  <programme start="20210415060000 -0500" stop="20210415070000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415073000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Los Desayunos De 24 Horas</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415090000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415090000 -0500" stop="20210415093000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415113000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20210415113000 -0500" stop="20210415123000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20210415123000 -0500" stop="20210415125000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210415125000 -0500" stop="20210415132500 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Fuller House</title>
+  </programme>
+  <programme start="20210415132500 -0500" stop="20210415140500 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415140500 -0500" stop="20210415143500 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20210415143500 -0500" stop="20210415144500 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">En Corto</title>
+  </programme>
+  <programme start="20210415144500 -0500" stop="20210415150000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415163000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210415163000 -0500" stop="20210415170000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">El Doctor milagro</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210415231000 -0500" channel="EC | TELEAMAZONAS *HQ">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20210415001500 -0500" stop="20210415011500 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210415011500 -0500" stop="20210415020000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Vivos</title>
+  </programme>
+  <programme start="20210415020000 -0500" stop="20210415023000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415024500 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210415024500 -0500" stop="20210415033000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20210415033000 -0500" stop="20210415040000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415040000 -0500" stop="20210415041500 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Camaramanía</title>
+  </programme>
+  <programme start="20210415041500 -0500" stop="20210415050000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415060000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">No-Ticias</title>
+  </programme>
+  <programme start="20210415060000 -0500" stop="20210415070000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415073000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Los Desayunos De 24 Horas</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415090000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415090000 -0500" stop="20210415093000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415113000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20210415113000 -0500" stop="20210415123000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20210415123000 -0500" stop="20210415125000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210415125000 -0500" stop="20210415132500 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Fuller House</title>
+  </programme>
+  <programme start="20210415132500 -0500" stop="20210415140500 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415140500 -0500" stop="20210415143500 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20210415143500 -0500" stop="20210415144500 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">En Corto</title>
+  </programme>
+  <programme start="20210415144500 -0500" stop="20210415150000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415163000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210415163000 -0500" stop="20210415170000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">El Doctor milagro</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210415231000 -0500" channel="EC | TELEAMAZONAS *HQ | op2">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20210415001500 -0500" stop="20210415011500 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210415011500 -0500" stop="20210415020000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Vivos</title>
+  </programme>
+  <programme start="20210415020000 -0500" stop="20210415023000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415024500 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210415024500 -0500" stop="20210415033000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20210415033000 -0500" stop="20210415040000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415040000 -0500" stop="20210415041500 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Camaramanía</title>
+  </programme>
+  <programme start="20210415041500 -0500" stop="20210415050000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415060000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">No-Ticias</title>
+  </programme>
+  <programme start="20210415060000 -0500" stop="20210415070000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415073000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Los Desayunos De 24 Horas</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415090000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415090000 -0500" stop="20210415093000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415113000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20210415113000 -0500" stop="20210415123000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20210415123000 -0500" stop="20210415125000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210415125000 -0500" stop="20210415132500 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Fuller House</title>
+  </programme>
+  <programme start="20210415132500 -0500" stop="20210415140500 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415140500 -0500" stop="20210415143500 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20210415143500 -0500" stop="20210415144500 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">En Corto</title>
+  </programme>
+  <programme start="20210415144500 -0500" stop="20210415150000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415163000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210415163000 -0500" stop="20210415170000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">El Doctor milagro</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210415231000 -0500" channel="EC | TELEAMAZONAS *HD">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20210415001500 -0500" stop="20210415011500 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210415011500 -0500" stop="20210415020000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Vivos</title>
+  </programme>
+  <programme start="20210415020000 -0500" stop="20210415023000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415024500 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210415024500 -0500" stop="20210415033000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20210415033000 -0500" stop="20210415040000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415040000 -0500" stop="20210415041500 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Camaramanía</title>
+  </programme>
+  <programme start="20210415041500 -0500" stop="20210415050000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415060000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">No-Ticias</title>
+  </programme>
+  <programme start="20210415060000 -0500" stop="20210415070000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415073000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Los Desayunos De 24 Horas</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415090000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415090000 -0500" stop="20210415093000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415113000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20210415113000 -0500" stop="20210415123000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20210415123000 -0500" stop="20210415125000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210415125000 -0500" stop="20210415132500 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Fuller House</title>
+  </programme>
+  <programme start="20210415132500 -0500" stop="20210415140500 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415140500 -0500" stop="20210415143500 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20210415143500 -0500" stop="20210415144500 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">En Corto</title>
+  </programme>
+  <programme start="20210415144500 -0500" stop="20210415150000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415163000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210415163000 -0500" stop="20210415170000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">El Doctor milagro</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210415231000 -0500" channel="EC | TELEAMAZONAS *HD | op2">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20210415001500 -0500" stop="20210415011500 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210415011500 -0500" stop="20210415020000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Vivos</title>
+  </programme>
+  <programme start="20210415020000 -0500" stop="20210415023000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415024500 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210415024500 -0500" stop="20210415033000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20210415033000 -0500" stop="20210415040000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415040000 -0500" stop="20210415041500 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Camaramanía</title>
+  </programme>
+  <programme start="20210415041500 -0500" stop="20210415050000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415060000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">No-Ticias</title>
+  </programme>
+  <programme start="20210415060000 -0500" stop="20210415070000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415073000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Los Desayunos De 24 Horas</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415090000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415090000 -0500" stop="20210415093000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415113000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20210415113000 -0500" stop="20210415123000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20210415123000 -0500" stop="20210415125000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210415125000 -0500" stop="20210415132500 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Fuller House</title>
+  </programme>
+  <programme start="20210415132500 -0500" stop="20210415140500 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415140500 -0500" stop="20210415143500 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20210415143500 -0500" stop="20210415144500 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">En Corto</title>
+  </programme>
+  <programme start="20210415144500 -0500" stop="20210415150000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415163000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210415163000 -0500" stop="20210415170000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">El Doctor milagro</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210415231000 -0500" channel="EC | TELEAMAZONAS *FHD">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20210415001500 -0500" stop="20210415011500 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">C.S.I. Miami</title>
+  </programme>
+  <programme start="20210415011500 -0500" stop="20210415020000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Vivos</title>
+  </programme>
+  <programme start="20210415020000 -0500" stop="20210415023000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415023000 -0500" stop="20210415024500 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">24 horas</title>
+  </programme>
+  <programme start="20210415024500 -0500" stop="20210415033000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Divino niño</title>
+  </programme>
+  <programme start="20210415033000 -0500" stop="20210415040000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Educa</title>
+  </programme>
+  <programme start="20210415040000 -0500" stop="20210415041500 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Camaramanía</title>
+  </programme>
+  <programme start="20210415041500 -0500" stop="20210415050000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415060000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">No-Ticias</title>
+  </programme>
+  <programme start="20210415060000 -0500" stop="20210415070000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415070000 -0500" stop="20210415073000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Los Desayunos De 24 Horas</title>
+  </programme>
+  <programme start="20210415073000 -0500" stop="20210415090000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415090000 -0500" stop="20210415093000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Soy yo</title>
+  </programme>
+  <programme start="20210415093000 -0500" stop="20210415113000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Madre</title>
+  </programme>
+  <programme start="20210415113000 -0500" stop="20210415123000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Boys Over Flowers</title>
+  </programme>
+  <programme start="20210415123000 -0500" stop="20210415125000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20210415125000 -0500" stop="20210415132500 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Fuller House</title>
+  </programme>
+  <programme start="20210415132500 -0500" stop="20210415140500 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415140500 -0500" stop="20210415143500 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Comunidad</title>
+  </programme>
+  <programme start="20210415143500 -0500" stop="20210415144500 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">En Corto</title>
+  </programme>
+  <programme start="20210415144500 -0500" stop="20210415150000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Deporte Total</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415160000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20210415160000 -0500" stop="20210415163000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210415163000 -0500" stop="20210415170000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Doraemon</title>
+  </programme>
+  <programme start="20210415170000 -0500" stop="20210415180000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20210415180000 -0500" stop="20210415190000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Nuevo rico, nuevo pobre</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415200000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415210000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">24 Horas</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">El Doctor milagro</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210415230000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210415231000 -0500" channel="EC | TELEAMAZONAS *FHD | op2">
+    <title lang="es">La ley secreta</title>
+  </programme>
+  <programme start="20210415002000 -0500" stop="20210415021500 -0500" channel="HBO *FHD">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20210415021500 -0500" stop="20210415030500 -0500" channel="HBO *FHD">
+    <title lang="es">Batwoman</title>
+  </programme>
+  <programme start="20210415030500 -0500" stop="20210415050000 -0500" channel="HBO *FHD">
+    <title lang="es">El Pasado que nos Une</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415074000 -0500" channel="HBO *FHD">
+    <title lang="es">La chica del dragón tatuado</title>
+  </programme>
+  <programme start="20210415074000 -0500" stop="20210415101500 -0500" channel="HBO *FHD">
+    <title lang="es">Doctor Sueño</title>
+  </programme>
+  <programme start="20210415101500 -0500" stop="20210415115500 -0500" channel="HBO *FHD">
+    <title lang="es">La maldición renace</title>
+  </programme>
+  <programme start="20210415115500 -0500" stop="20210415144000 -0500" channel="HBO *FHD">
+    <title lang="es">La chica del dragón tatuado</title>
+  </programme>
+  <programme start="20210415144000 -0500" stop="20210415164000 -0500" channel="HBO *FHD">
+    <title lang="es">Secretos de Estado</title>
+  </programme>
+  <programme start="20210415164000 -0500" stop="20210415172000 -0500" channel="HBO *FHD">
+    <title lang="es">Last Week Tonight With John Oliver</title>
+  </programme>
+  <programme start="20210415172000 -0500" stop="20210415192000 -0500" channel="HBO *FHD">
+    <title lang="es">Música, glamour y fama</title>
+  </programme>
+  <programme start="20210415192000 -0500" stop="20210415210000 -0500" channel="HBO *FHD">
+    <title lang="es">La Maldición de la Llorona (2019)</title>
+  </programme>
+  <programme start="20210415210000 -0500" stop="20210415220000 -0500" channel="HBO *FHD">
+    <title lang="es">The Nevers</title>
+  </programme>
+  <programme start="20210415220000 -0500" stop="20210416004000 -0500" channel="HBO *FHD">
+    <title lang="es">Doctor Sueño</title>
+  </programme>
+  <programme start="20210415002000 -0500" stop="20210415005000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210415005000 -0500" stop="20210415014500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210415014500 -0500" stop="20210415020000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415020000 -0500" stop="20210415022500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415022500 -0500" stop="20210415025000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415025000 -0500" stop="20210415030500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415030500 -0500" stop="20210415031500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415031500 -0500" stop="20210415033000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415033000 -0500" stop="20210415034000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415034000 -0500" stop="20210415040000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415040000 -0500" stop="20210415040500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415040500 -0500" stop="20210415043000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415043000 -0500" stop="20210415050000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210415050000 -0500" stop="20210415053000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20210415053000 -0500" stop="20210415060000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20210415060000 -0500" stop="20210415062500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20210415062500 -0500" stop="20210415065000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20210415065000 -0500" stop="20210415072000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">La Casa de los Dibujos</title>
+  </programme>
+  <programme start="20210415072000 -0500" stop="20210415074500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">La Casa de los Dibujos</title>
+  </programme>
+  <programme start="20210415074500 -0500" stop="20210415081000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Ren &amp; Stimpy</title>
+  </programme>
+  <programme start="20210415081000 -0500" stop="20210415084000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210415084000 -0500" stop="20210415090500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210415090500 -0500" stop="20210415093500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20210415093500 -0500" stop="20210415100000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20210415100000 -0500" stop="20210415103000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Todo el mundo odia a Chris</title>
+  </programme>
+  <programme start="20210415103000 -0500" stop="20210415105500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Todo el mundo odia a Chris</title>
+  </programme>
+  <programme start="20210415105500 -0500" stop="20210415115000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210415115000 -0500" stop="20210415121500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415121500 -0500" stop="20210415124500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415124500 -0500" stop="20210415131000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415131000 -0500" stop="20210415134000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210415134000 -0500" stop="20210415140500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210415140500 -0500" stop="20210415143500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20210415143500 -0500" stop="20210415150000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415155500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210415155500 -0500" stop="20210415162000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415162000 -0500" stop="20210415165000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415165000 -0500" stop="20210415171500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415171500 -0500" stop="20210415184000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210415184000 -0500" stop="20210415190500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">La Familia Peluche</title>
+  </programme>
+  <programme start="20210415190500 -0500" stop="20210415193500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415193500 -0500" stop="20210415200000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415202500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210415202500 -0500" stop="20210415205000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210415205000 -0500" stop="20210415212000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210415212000 -0500" stop="20210415214500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210415214500 -0500" stop="20210415221500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210415221500 -0500" stop="20210415224000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210415224000 -0500" stop="20210415233000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20210415233000 -0500" stop="20210415235500 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210415235500 -0500" stop="20210416002000 -0500" channel="COMEDY CENTRAL *FHD">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210415000500 -0500" stop="20210415010000 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20210415010000 -0500" stop="20210415015500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">La Escuelita V.I.P</title>
+  </programme>
+  <programme start="20210415015500 -0500" stop="20210415031000 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">La hora pico</title>
+  </programme>
+  <programme start="20210415031000 -0500" stop="20210415040500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Cero en conducta</title>
+  </programme>
+  <programme start="20210415040500 -0500" stop="20210415043500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Relatos Macabrones (final)</title>
+  </programme>
+  <programme start="20210415043500 -0500" stop="20210415053000 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">María de todos los Angeles</title>
+  </programme>
+  <programme start="20210415053000 -0500" stop="20210415064500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">XH Derbez</title>
+  </programme>
+  <programme start="20210415064500 -0500" stop="20210415080500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210415080500 -0500" stop="20210415090000 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Hotel Todo Incluido</title>
+  </programme>
+  <programme start="20210415090000 -0500" stop="20210415101500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">María de todos los Angeles</title>
+  </programme>
+  <programme start="20210415101500 -0500" stop="20210415113000 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415113000 -0500" stop="20210415123000 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20210415123000 -0500" stop="20210415134500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20210415134500 -0500" stop="20210415150000 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210415150000 -0500" stop="20210415161500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415161500 -0500" stop="20210415171500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20210415171500 -0500" stop="20210415183000 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">La Familia Peluche</title>
+  </programme>
+  <programme start="20210415183000 -0500" stop="20210415190000 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Relatos Macabrones (final)</title>
+  </programme>
+  <programme start="20210415190000 -0500" stop="20210415201500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210415201500 -0500" stop="20210415212500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210415212500 -0500" stop="20210415230000 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">La Familia Peluche</title>
+  </programme>
+  <programme start="20210415230000 -0500" stop="20210416000500 -0500" channel="DISTRITO COMEDIA *FHD">
+    <title lang="es">5X8 Comedia T.6 Mundo loco</title>
+  </programme>
+  <programme start="20210415000300 -0500" stop="20210415002800 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210415002800 -0500" stop="20210415005200 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210415005200 -0500" stop="20210415011100 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210415011100 -0500" stop="20210415013400 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210415013400 -0500" stop="20210415015600 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210415015600 -0500" stop="20210415021700 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210415021700 -0500" stop="20210415024100 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210415024100 -0500" stop="20210415030700 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210415030700 -0500" stop="20210415040000 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210415040000 -0500" stop="20210415053200 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Last O.G</title>
+  </programme>
+  <programme start="20210415053200 -0500" stop="20210415060300 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210415060300 -0500" stop="20210415063000 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210415063000 -0500" stop="20210415065600 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210415065600 -0500" stop="20210415074800 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Seinfeld</title>
+  </programme>
+  <programme start="20210415074800 -0500" stop="20210415095200 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Personal effects</title>
+  </programme>
+  <programme start="20210415095200 -0500" stop="20210415115800 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">El ilusionista</title>
+  </programme>
+  <programme start="20210415115800 -0500" stop="20210415122700 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210415122700 -0500" stop="20210415125700 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210415125700 -0500" stop="20210415132600 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Friends</title>
+  </programme>
+  <programme start="20210415132600 -0500" stop="20210415135200 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210415135200 -0500" stop="20210415141700 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210415141700 -0500" stop="20210415144100 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210415144100 -0500" stop="20210415150900 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Big Bang Theory</title>
+  </programme>
+  <programme start="20210415150900 -0500" stop="20210415174800 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20210415174800 -0500" stop="20210415200000 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Kong: La Isla Calavera</title>
+  </programme>
+  <programme start="20210415200000 -0500" stop="20210415214300 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Viaje al centro de la tierra</title>
+  </programme>
+  <programme start="20210415214300 -0500" stop="20210415223900 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">The Flash</title>
+  </programme>
+  <programme start="20210415223900 -0500" stop="20210415225200 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Inside Warner: Godzilla vs. Kong</title>
+  </programme>
+  <programme start="20210415225200 -0500" stop="20210415234800 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Supergirl</title>
+  </programme>
+  <programme start="20210415234800 -0500" stop="20210416001300 -0500" channel="WARNER CHANNEL *FHD">
+    <title lang="es">Seinfeld</title>
   </programme>
 </tv>
